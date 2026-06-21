@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Andre+Jarl+%F0%9F%91%8B;Software+Developer+from+Cebu%2C+PH+%F0%9F%87%B5%F0%9F%87%AD;Building+clean+%26+purposeful+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+
+# Hi, I'm Andre Jarl 👋
+### Software Developer and BS Computer Engineer
 
 <br/>
 
