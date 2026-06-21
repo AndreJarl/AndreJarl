@@ -11,7 +11,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies I've worked with
 
 **Languages & Frameworks**
 
