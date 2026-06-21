@@ -24,6 +24,4 @@
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AndreJarl&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
