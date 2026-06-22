@@ -1,7 +1,8 @@
 <div align="center">
 
 
-# Hi, I'm Andre Jarl 👋
+# Hi, I'm Andre Jarl <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="35" alt="👋"/>
+
 ### Software Developer and BS Computer Engineer
 
 <br/>
