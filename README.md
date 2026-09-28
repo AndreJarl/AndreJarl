@@ -2,7 +2,7 @@
 
 # Hi, I'm Andre Jarl <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
 
-### Software Developer • BS Computer Engineer
+Software Developer • BS Computer Engineer
 
 <br/>
 
@@ -23,7 +23,7 @@ I'm a Software Developer with a background in Computer Engineering, working acro
 <td width="50%" valign="top" align="center">
 
 <img src="https://streak-stats.demolab.com?user=AndreJarl&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="70%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%"/>
 
 </td>
 </tr>
