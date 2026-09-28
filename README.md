@@ -20,10 +20,10 @@ I'm a Software Developer with a background in Computer Engineering, working acro
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andre-jarl-aniana)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="https://streak-stats.demolab.com?user=AndreJarl&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="70%"/>
 
 </td>
 </tr>
