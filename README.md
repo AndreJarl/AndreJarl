@@ -6,8 +6,28 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AndreJarl&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👋 About Me
+
+I'm a Software Developer with a background in Computer Engineering, working across web, backend, and hardware. I enjoy turning ideas into clean, functional products — from full-stack apps to embedded projects.
+
+* 🔭 Building modern web & mobile experiences
+* ⚙️ Comfortable across the stack — frontend to database to metal
+* 🌱 Always exploring new tools and frameworks
+* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andre-jarl-aniana)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://streak-stats.demolab.com?user=AndreJarl&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -49,6 +69,7 @@
 
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 
 </td>
 </tr>
