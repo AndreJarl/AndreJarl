@@ -1,18 +1,22 @@
 <div align="center">
 
-
 # Hi, I'm Andre Jarl <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
 
-### Software Developer and BS Computer Engineer
+### Software Developer • BS Computer Engineer
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=AndreJarl&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreJarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 
-### 🛠️ Technologies I've worked with
+<br/>
 
-**Languages & Frameworks**
+## 🛠️ Technologies I've Worked With
+
+<table>
+<tr>
+<td valign="top"><b>Languages & Frameworks</b></td>
+<td>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -23,7 +27,11 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
-**Databases & Tools**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases & Tools</b></td>
+<td>
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -33,18 +41,23 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-**Hardware & Platforms**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Hardware & Platforms</b></td>
+<td>
 
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-### Socials
+### 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-jarl-aniana)
-
-<br/>
-
 
 </div>
